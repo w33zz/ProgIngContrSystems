@@ -30,7 +30,8 @@ node-red-contrib-rpi-imagecapture - https://flows.nodered.org/node/node-red-cont
 
 **Приблизна схема проекту**
 
-![image-20210611131732019](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210611131732019.png)
+![image-20210611131732019](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210611131732019.png)![image](https://user-images.githubusercontent.com/72450425/121671812-b508a280-cab7-11eb-9e80-36be4ee6649d.png)
+
 
 **Учасники бригади****:**
 
